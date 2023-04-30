@@ -1,5 +1,11 @@
+# To install the dependencies for the project, navigate to the directory where your
+# requirements.txt file is located in your terminal, and run the following command:
+
+# pip install -r requirements.txt
+
 numpy>=1.21.2
 pandas>=1.3.3
 seaborn>=0.11.2
 matplotlib>=3.4.3
 scipy>=1.7.1
+geopy>=2.3.0
