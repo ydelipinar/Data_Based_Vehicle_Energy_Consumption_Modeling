@@ -9,5 +9,5 @@
 > 3.  Use concepts from machine learning for a detailed investigation of the data
 > 4.  Perform visualization to present the outcomes of their investigation
 
-*   **Students**: Mert Kılıçaslan, Serhan Yorulmaz, Yunus Delipınar
+*   **Students**: <a href="https://github.com/mertkilicaslan">Mert Kılıçaslan</a>, <a href="https://github.com/ydelipinar">Yunus Delipınar</a>, <a href="https://github.com/serhanyrlmz">Serhan Yorulmaz</a>
 *   **Supervisors**: Tuğçe Yüksel, Öznur Taştan, Mert Özçelik
