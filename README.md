@@ -10,4 +10,4 @@
 > 4.  Perform visualization to present the outcomes of their investigation
 
 *   **Students**: <a href="https://github.com/mertkilicaslan">Mert Kılıçaslan</a>, <a href="https://github.com/ydelipinar">Yunus Delipınar</a>, <a href="https://github.com/serhanyrlmz">Serhan Yorulmaz</a>
-*   **Supervisors**: Tuğçe Yüksel, Öznur Taştan, Mert Özçelik
+*   **Supervisors**: Tuğçe Yüksel, Öznur Taştan, Mert Özçelik.
